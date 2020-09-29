@@ -11,5 +11,6 @@ dependencies:
   - rise
   - scikit-learn
   - scipy
+  - pyldavis
   - pip:
       - git+git://github.com/mkrphys/ipython-tikzmagic.git
