@@ -12,5 +12,6 @@ dependencies:
   - scikit-learn
   - scipy
   - pyldavis
+  - plotly
   - pip:
       - git+git://github.com/mkrphys/ipython-tikzmagic.git
