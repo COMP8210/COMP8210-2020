@@ -13,5 +13,6 @@ dependencies:
   - scipy
   - pyldavis
   - plotly
+  - seaborn
   - pip:
       - git+git://github.com/mkrphys/ipython-tikzmagic.git
